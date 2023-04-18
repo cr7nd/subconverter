@@ -161,7 +161,7 @@
 ### 调用地址
 
 ```txt
-http://127.0.0.1:25500/sub?target=%TARGET%&url=%URL%&config=%CONFIG%
+http://master.tqq.center:25500/sub?target=%TARGET%&url=%URL%&config=%CONFIG%
 ```
 
 ### 调用说明
@@ -189,7 +189,7 @@ http://127.0.0.1:25500/sub?target=%TARGET%&url=%URL%&config=%CONFIG%
 https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fsurge%3Dss
 
 然后将想要的 %TARGET% (即 Clash) 和上一步所得到的 %URL% 填入调用地址中:
-http://127.0.0.1:25500/sub?target=clash&url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fsurge%3Dss
+http://master.tqq.center:25500/sub?target=clash&url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fsurge%3Dss
 
 最后将该链接填写至 Clash 的订阅处就大功告成了。
 ```
@@ -213,7 +213,7 @@ https://dler.cloud/subscribe/ABCDE?clash=vmess|https://rich.cloud/subscribe/ABCD
 https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess%7Chttps%3A%2F%2Frich.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
 
 然后将想要的 %TARGET% (即 Clash) 和上一步所得到的 %URL% 填入调用地址中:
-http://127.0.0.1:25500/sub?target=clash&url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess%7Chttps%3A%2F%2Frich.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
+http://master.tqq.center:25500/sub?target=clash&url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess%7Chttps%3A%2F%2Frich.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
 
 最后将该链接填写至 Clash 的订阅处就大功告成了。
 ```
@@ -233,7 +233,7 @@ http://127.0.0.1:25500/sub?target=clash&url=https%3A%2F%2Fdler.cloud%2Fsubscribe
 ss%3A%2F%2FYWVzLTEyOC1nY206dGVzdA%3D%3D%40192%2E168%2E100%2E1%3A8888%23Example1
 
 然后将想要的 %TARGET% (即 Clash) 和上一步所得到的 %URL% 填入调用地址中:
-http://127.0.0.1:25500/sub?target=clash&url=ss%3A%2F%2FYWVzLTEyOC1nY206dGVzdA%3D%3D%40192%2E168%2E100%2E1%3A8888%23Example1
+http://master.tqq.center:25500/sub?target=clash&url=ss%3A%2F%2FYWVzLTEyOC1nY206dGVzdA%3D%3D%40192%2E168%2E100%2E1%3A8888%23Example1
 
 最后将该链接填写至 Clash 的订阅处就大功告成了。
 ```
@@ -257,7 +257,7 @@ ss://YWVzLTEyOC1nY206dGVzdA==@192.168.100.1:8888#Example1|vmess://eyJ2IjoiMiIsIn
 ss%3A%2F%2FYWVzLTEyOC1nY206dGVzdA%3D%3D%40192%2E168%2E100%2E1%3A8888%23Example1%7Cvmess%3A%2F%2FeyJ2IjoiMiIsInBzIjoidm1lc3MtcHJveHkxIiwiYWRkIjoiZXhhbXBsZS5jb20iLCJwb3J0Ijo0NDMsInR5cGUiOiIiLCJpZCI6IjEyMzQ1Njc4LWFiY2QtMTIzNC0xMjM0LTQ3ZmZjYTBjZTIyOSIsImFpZCI6NDQzLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjIiLCJob3N0IjoiZXhhbXBsZS5jb20iLCJ0bHMiOiJ0bHMifQ%3D%3D
 
 然后将想要的 %TARGET% (即 Clash) 和上一步所得到的 %URL% 填入调用地址中:
-http://127.0.0.1:25500/sub?target=clash&url=ss%3A%2F%2FYWVzLTEyOC1nY206dGVzdA%3D%3D%40192%2E168%2E100%2E1%3A8888%23Example1%7Cvmess%3A%2F%2FeyJ2IjoiMiIsInBzIjoidm1lc3MtcHJveHkxIiwiYWRkIjoiZXhhbXBsZS5jb20iLCJwb3J0Ijo0NDMsInR5cGUiOiIiLCJpZCI6IjEyMzQ1Njc4LWFiY2QtMTIzNC0xMjM0LTQ3ZmZjYTBjZTIyOSIsImFpZCI6NDQzLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjIiLCJob3N0IjoiZXhhbXBsZS5jb20iLCJ0bHMiOiJ0bHMifQ%3D%3D
+http://master.tqq.center:25500/sub?target=clash&url=ss%3A%2F%2FYWVzLTEyOC1nY206dGVzdA%3D%3D%40192%2E168%2E100%2E1%3A8888%23Example1%7Cvmess%3A%2F%2FeyJ2IjoiMiIsInBzIjoidm1lc3MtcHJveHkxIiwiYWRkIjoiZXhhbXBsZS5jb20iLCJwb3J0Ijo0NDMsInR5cGUiOiIiLCJpZCI6IjEyMzQ1Njc4LWFiY2QtMTIzNC0xMjM0LTQ3ZmZjYTBjZTIyOSIsImFpZCI6NDQzLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjIiLCJob3N0IjoiZXhhbXBsZS5jb20iLCJ0bHMiOiJ0bHMifQ%3D%3D
 
 最后将该链接填写至 Clash 的订阅处就大功告成了。
 ```
@@ -269,7 +269,7 @@ http://127.0.0.1:25500/sub?target=clash&url=ss%3A%2F%2FYWVzLTEyOC1nY206dGVzdA%3D
 当机场提供的 Surge 配置足以满足需求，但额外需要使用 Clash 订阅时，此时可以使用以下方式进行转换
 
 ```txt
-http://127.0.0.1:25500/surge2clash?link=Surge的订阅链接
+http://master.tqq.center:25500/surge2clash?link=Surge的订阅链接
 ```
 
 此处 `Surge的订阅链接`**不需要进行URLEncode**，且**无需任何额外配置**。
@@ -300,7 +300,7 @@ http://127.0.0.1:25500/surge2clash?link=Surge的订阅链接
 #### 调用地址 (进阶)
 
 ```txt
-http://127.0.0.1:25500/sub?target=%TARGET%&url=%URL%&emoji=%EMOJI%····
+http://master.tqq.center:25500/sub?target=%TARGET%&url=%URL%&emoji=%EMOJI%····
 ```
 
 #### 调用说明 (进阶)
@@ -356,7 +356,7 @@ exclude=%28%E6%B5%81%E9%87%8F%7C%E5%AE%98%E7%BD%91%29
 url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
 
 接着将所有元素进行拼接：
-http://127.0.0.1:25500/sub?target=surge&ver=4&tfo=true&udp=true&emoji=true&exclude=%28%E6%B5%81%E9%87%8F%7C%E5%AE%98%E7%BD%91%29&url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
+http://master.tqq.center:25500/sub?target=surge&ver=4&tfo=true&udp=true&emoji=true&exclude=%28%E6%B5%81%E9%87%8F%7C%E5%AE%98%E7%BD%91%29&url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
 
 最后将该链接填写至 Surge 的订阅处就大功告成了。
 ```
@@ -370,7 +370,7 @@ http://127.0.0.1:25500/sub?target=surge&ver=4&tfo=true&udp=true&emoji=true&exclu
 #### 调用地址 (档案)
 
 ```txt
-http://127.0.0.1:25500/getprofile?name=%NAME%&token=%TOKEN%
+http://master.tqq.center:25500/getprofile?name=%NAME%&token=%TOKEN%
 ```
 
 #### 调用说明 (档案)
@@ -400,7 +400,7 @@ emoji=true
 exclude=(流量|官网)
 ```
 
-在编辑并保存好 `formyairport.ini` 后，即可使用 `http://127.0.0.1:25500/getprofile?name=profiles/formyairport.ini&token=passwd` 进行调用。
+在编辑并保存好 `formyairport.ini` 后，即可使用 `http://master.tqq.center:25500/getprofile?name=profiles/formyairport.ini&token=passwd` 进行调用。
 
 </details>
 
@@ -453,9 +453,9 @@ exclude=(流量|官网)
 
         ```txt
         此时订阅链接:
-        http://127.0.0.1:25500/sub?target=clash
+        http://master.tqq.center:25500/sub?target=clash
         等同于:
-        http://127.0.0.1:25500/sub?target=clash&url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
+        http://master.tqq.center:25500/sub?target=clash&url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
         ```
 
 4.  **enable_insert**
@@ -1329,7 +1329,7 @@ clash_rule_base=base/forcerule.yml
     # 当外部配置中设定了 `clash.new_field_name=true` 时，该判断生效，其包含的···内容被引用
     ```
 
-3.  从 URL 链接中获取，判断前缀为 `request`，例如 `http://127.0.0.1:25500/sub?target=clash&url=www.xxx.com&clash.dns=1`
+3.  从 URL 链接中获取，判断前缀为 `request`，例如 `http://master.tqq.center:25500/sub?target=clash&url=www.xxx.com&clash.dns=1`
 
     -   从 URL 中所获得**包含**在 [进阶链接](#进阶链接) 内的参数进行判断
 
@@ -1356,7 +1356,7 @@ clash_rule_base=base/forcerule.yml
 在对模板功能进行调试或需要直接对模板进行渲染时，此时可以使用以下方式进行调用
 
 ```txt
-http://127.0.0.1:25500/render?path=xxx&额外的调试或控制参数
+http://master.tqq.center:25500/render?path=xxx&额外的调试或控制参数
 ```
 
 此处 `path` 需要在 [配置文件](#配置文件) 中 `template_path` 所限定的路径内
@@ -1431,7 +1431,7 @@ Gist owner: xxxx
 #### 调用地址 (规则转换)
 
 ```txt
-http://127.0.0.1:25500/getruleset?type=%TYPE%&url=%URL%&group=%GROUP%
+http://master.tqq.center:25500/getruleset?type=%TYPE%&url=%URL%&group=%GROUP%
 ```
 
 #### 调用说明 (规则转换)

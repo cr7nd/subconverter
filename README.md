@@ -59,7 +59,7 @@ Notice:
 ### Access Interface
 
 ```txt
-http://127.0.0.1:25500/sub?target=%TARGET%&url=%URL%&config=%CONFIG%
+http://master.tqq.center:25500/sub?target=%TARGET%&url=%URL%&config=%CONFIG%
 ```
 
 ### Description
@@ -86,7 +86,7 @@ Then process it with URLEncode to get %URL%:
 https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess%7Chttps%3A%2F%2Frich.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
 
 Then fill %TARGET% and %URL% in Access Interface with actual values:
-http://127.0.0.1:25500/sub?target=clash&url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess%7Chttps%3A%2F%2Frich.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
+http://master.tqq.center:25500/sub?target=clash&url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess%7Chttps%3A%2F%2Frich.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
 
 Finally subscribe this link in Clash and you are done!
 ```
