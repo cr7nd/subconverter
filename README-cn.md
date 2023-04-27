@@ -161,7 +161,7 @@
 ### 调用地址
 
 ```txt
-http://master.tqq.center:25500/sub?target=%TARGET%&url=%URL%&config=%CONFIG%
+https://subconverter.tqq.center:66/sub?target=%TARGET%&url=%URL%&config=%CONFIG%
 ```
 
 ### 调用说明
@@ -189,7 +189,7 @@ http://master.tqq.center:25500/sub?target=%TARGET%&url=%URL%&config=%CONFIG%
 https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fsurge%3Dss
 
 然后将想要的 %TARGET% (即 Clash) 和上一步所得到的 %URL% 填入调用地址中:
-http://master.tqq.center:25500/sub?target=clash&url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fsurge%3Dss
+https://subconverter.tqq.center:66/sub?target=clash&url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fsurge%3Dss
 
 最后将该链接填写至 Clash 的订阅处就大功告成了。
 ```
@@ -213,7 +213,7 @@ https://dler.cloud/subscribe/ABCDE?clash=vmess|https://rich.cloud/subscribe/ABCD
 https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess%7Chttps%3A%2F%2Frich.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
 
 然后将想要的 %TARGET% (即 Clash) 和上一步所得到的 %URL% 填入调用地址中:
-http://master.tqq.center:25500/sub?target=clash&url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess%7Chttps%3A%2F%2Frich.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
+https://subconverter.tqq.center:66/sub?target=clash&url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess%7Chttps%3A%2F%2Frich.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
 
 最后将该链接填写至 Clash 的订阅处就大功告成了。
 ```
@@ -233,7 +233,7 @@ http://master.tqq.center:25500/sub?target=clash&url=https%3A%2F%2Fdler.cloud%2Fs
 ss%3A%2F%2FYWVzLTEyOC1nY206dGVzdA%3D%3D%40192%2E168%2E100%2E1%3A8888%23Example1
 
 然后将想要的 %TARGET% (即 Clash) 和上一步所得到的 %URL% 填入调用地址中:
-http://master.tqq.center:25500/sub?target=clash&url=ss%3A%2F%2FYWVzLTEyOC1nY206dGVzdA%3D%3D%40192%2E168%2E100%2E1%3A8888%23Example1
+https://subconverter.tqq.center:66/sub?target=clash&url=ss%3A%2F%2FYWVzLTEyOC1nY206dGVzdA%3D%3D%40192%2E168%2E100%2E1%3A8888%23Example1
 
 最后将该链接填写至 Clash 的订阅处就大功告成了。
 ```
@@ -257,7 +257,7 @@ ss://YWVzLTEyOC1nY206dGVzdA==@192.168.100.1:8888#Example1|vmess://eyJ2IjoiMiIsIn
 ss%3A%2F%2FYWVzLTEyOC1nY206dGVzdA%3D%3D%40192%2E168%2E100%2E1%3A8888%23Example1%7Cvmess%3A%2F%2FeyJ2IjoiMiIsInBzIjoidm1lc3MtcHJveHkxIiwiYWRkIjoiZXhhbXBsZS5jb20iLCJwb3J0Ijo0NDMsInR5cGUiOiIiLCJpZCI6IjEyMzQ1Njc4LWFiY2QtMTIzNC0xMjM0LTQ3ZmZjYTBjZTIyOSIsImFpZCI6NDQzLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjIiLCJob3N0IjoiZXhhbXBsZS5jb20iLCJ0bHMiOiJ0bHMifQ%3D%3D
 
 然后将想要的 %TARGET% (即 Clash) 和上一步所得到的 %URL% 填入调用地址中:
-http://master.tqq.center:25500/sub?target=clash&url=ss%3A%2F%2FYWVzLTEyOC1nY206dGVzdA%3D%3D%40192%2E168%2E100%2E1%3A8888%23Example1%7Cvmess%3A%2F%2FeyJ2IjoiMiIsInBzIjoidm1lc3MtcHJveHkxIiwiYWRkIjoiZXhhbXBsZS5jb20iLCJwb3J0Ijo0NDMsInR5cGUiOiIiLCJpZCI6IjEyMzQ1Njc4LWFiY2QtMTIzNC0xMjM0LTQ3ZmZjYTBjZTIyOSIsImFpZCI6NDQzLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjIiLCJob3N0IjoiZXhhbXBsZS5jb20iLCJ0bHMiOiJ0bHMifQ%3D%3D
+https://subconverter.tqq.center:66/sub?target=clash&url=ss%3A%2F%2FYWVzLTEyOC1nY206dGVzdA%3D%3D%40192%2E168%2E100%2E1%3A8888%23Example1%7Cvmess%3A%2F%2FeyJ2IjoiMiIsInBzIjoidm1lc3MtcHJveHkxIiwiYWRkIjoiZXhhbXBsZS5jb20iLCJwb3J0Ijo0NDMsInR5cGUiOiIiLCJpZCI6IjEyMzQ1Njc4LWFiY2QtMTIzNC0xMjM0LTQ3ZmZjYTBjZTIyOSIsImFpZCI6NDQzLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjIiLCJob3N0IjoiZXhhbXBsZS5jb20iLCJ0bHMiOiJ0bHMifQ%3D%3D
 
 最后将该链接填写至 Clash 的订阅处就大功告成了。
 ```
@@ -300,7 +300,7 @@ http://master.tqq.center:25500/surge2clash?link=Surge的订阅链接
 #### 调用地址 (进阶)
 
 ```txt
-http://master.tqq.center:25500/sub?target=%TARGET%&url=%URL%&emoji=%EMOJI%····
+https://subconverter.tqq.center:66/sub?target=%TARGET%&url=%URL%&emoji=%EMOJI%····
 ```
 
 #### 调用说明 (进阶)
@@ -356,7 +356,7 @@ exclude=%28%E6%B5%81%E9%87%8F%7C%E5%AE%98%E7%BD%91%29
 url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
 
 接着将所有元素进行拼接：
-http://master.tqq.center:25500/sub?target=surge&ver=4&tfo=true&udp=true&emoji=true&exclude=%28%E6%B5%81%E9%87%8F%7C%E5%AE%98%E7%BD%91%29&url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
+https://subconverter.tqq.center:66/sub?target=surge&ver=4&tfo=true&udp=true&emoji=true&exclude=%28%E6%B5%81%E9%87%8F%7C%E5%AE%98%E7%BD%91%29&url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
 
 最后将该链接填写至 Surge 的订阅处就大功告成了。
 ```
@@ -453,9 +453,9 @@ exclude=(流量|官网)
 
         ```txt
         此时订阅链接:
-        http://master.tqq.center:25500/sub?target=clash
+        https://subconverter.tqq.center:66/sub?target=clash
         等同于:
-        http://master.tqq.center:25500/sub?target=clash&url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
+        https://subconverter.tqq.center:66/sub?target=clash&url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
         ```
 
 4.  **enable_insert**
@@ -1329,7 +1329,7 @@ clash_rule_base=base/forcerule.yml
     # 当外部配置中设定了 `clash.new_field_name=true` 时，该判断生效，其包含的···内容被引用
     ```
 
-3.  从 URL 链接中获取，判断前缀为 `request`，例如 `http://master.tqq.center:25500/sub?target=clash&url=www.xxx.com&clash.dns=1`
+3.  从 URL 链接中获取，判断前缀为 `request`，例如 `https://subconverter.tqq.center:66/sub?target=clash&url=www.xxx.com&clash.dns=1`
 
     -   从 URL 中所获得**包含**在 [进阶链接](#进阶链接) 内的参数进行判断
 
