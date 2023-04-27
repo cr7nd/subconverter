@@ -269,7 +269,7 @@ https://subconverter.tqq.center:66/sub?target=clash&url=ss%3A%2F%2FYWVzLTEyOC1nY
 当机场提供的 Surge 配置足以满足需求，但额外需要使用 Clash 订阅时，此时可以使用以下方式进行转换
 
 ```txt
-http://master.tqq.center:25500/surge2clash?link=Surge的订阅链接
+https://subconverter.tqq.center:66/surge2clash?link=Surge的订阅链接
 ```
 
 此处 `Surge的订阅链接`**不需要进行URLEncode**，且**无需任何额外配置**。
@@ -370,7 +370,7 @@ https://subconverter.tqq.center:66/sub?target=surge&ver=4&tfo=true&udp=true&emoj
 #### 调用地址 (档案)
 
 ```txt
-http://master.tqq.center:25500/getprofile?name=%NAME%&token=%TOKEN%
+https://subconverter.tqq.center:66/getprofile?name=%NAME%&token=%TOKEN%
 ```
 
 #### 调用说明 (档案)
@@ -400,7 +400,7 @@ emoji=true
 exclude=(流量|官网)
 ```
 
-在编辑并保存好 `formyairport.ini` 后，即可使用 `http://master.tqq.center:25500/getprofile?name=profiles/formyairport.ini&token=passwd` 进行调用。
+在编辑并保存好 `formyairport.ini` 后，即可使用 `https://subconverter.tqq.center:66/getprofile?name=profiles/formyairport.ini&token=passwd` 进行调用。
 
 </details>
 
@@ -1356,7 +1356,7 @@ clash_rule_base=base/forcerule.yml
 在对模板功能进行调试或需要直接对模板进行渲染时，此时可以使用以下方式进行调用
 
 ```txt
-http://master.tqq.center:25500/render?path=xxx&额外的调试或控制参数
+https://subconverter.tqq.center:66/render?path=xxx&额外的调试或控制参数
 ```
 
 此处 `path` 需要在 [配置文件](#配置文件) 中 `template_path` 所限定的路径内
@@ -1431,7 +1431,7 @@ Gist owner: xxxx
 #### 调用地址 (规则转换)
 
 ```txt
-http://master.tqq.center:25500/getruleset?type=%TYPE%&url=%URL%&group=%GROUP%
+https://subconverter.tqq.center:66/getruleset?type=%TYPE%&url=%URL%&group=%GROUP%
 ```
 
 #### 调用说明 (规则转换)
