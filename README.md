@@ -59,7 +59,7 @@ Notice:
 ### Access Interface
 
 ```txt
-https://subconverter.tqq.center:66/sub?target=%TARGET%&url=%URL%&config=%CONFIG%
+https://sc.tqq.center:66/sub?target=%TARGET%&url=%URL%&config=%CONFIG%
 ```
 
 ### Description
@@ -86,7 +86,7 @@ Then process it with URLEncode to get %URL%:
 https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess%7Chttps%3A%2F%2Frich.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
 
 Then fill %TARGET% and %URL% in Access Interface with actual values:
-https://subconverter.tqq.center:66/sub?target=clash&url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess%7Chttps%3A%2F%2Frich.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
+https://sc.tqq.center:66/sub?target=clash&url=https%3A%2F%2Fdler.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess%7Chttps%3A%2F%2Frich.cloud%2Fsubscribe%2FABCDE%3Fclash%3Dvmess
 
 Finally subscribe this link in Clash and you are done!
 ```

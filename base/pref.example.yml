@@ -56,7 +56,7 @@ node_pref:
 
 managed_config:
   write_managed_config: true
-  managed_config_prefix: "https://subconverter.tqq.center:66"
+  managed_config_prefix: "https://sc.tqq.center:66"
   config_update_interval: 86400
   config_update_strict: false
   quanx_device_id: ""
